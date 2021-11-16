@@ -47,7 +47,7 @@
 
 28. Now type the name of any city you want to see its temperature; then click the **search** button.
 
-<img src="https://lh5.googleusercontent.com/le_AU2-_VrjuiCeC_Y7qyuF3EFXgtmkxnkK_UOGvSw6nlAnqEclav7OhVYTRgyzfdrk4nDrPMgmwy6oAMS3bdstPubVlGVOOSzmuvlJvmn9BJw1RXi5IeAjDLfSgb49fG9akDTfw" alt="img" style="zoom:50%;" />
+<img src="https://lh5.googleusercontent.com/le_AU2-_VrjuiCeC_Y7qyuF3EFXgtmkxnkK_UOGvSw6nlAnqEclav7OhVYTRgyzfdrk4nDrPMgmwy6oAMS3bdstPubVlGVOOSzmuvlJvmn9BJw1RXi5IeAjDLfSgb49fG9akDTfw" alt="img" width="350" />
 
 
 
