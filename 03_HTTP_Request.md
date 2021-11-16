@@ -7,9 +7,7 @@ In our application, we will need a server that will provide us with the temperat
 
 
 
-
-![img](https://lh5.googleusercontent.com/5hIWm4QxYPtCEmRPDCwQIEvTm-qE0drQk1Tsb8KugDgkaW2jdPa5J8P5wKJ9D-7QHuEjT3WUG1YvL7l1SVxoT4fZyR0UiqCEPeSlFXBQcjPAcSf9w0MV-hoYQcWIBwMpFLtfDKao)
-
+<img src="https://lh5.googleusercontent.com/5hIWm4QxYPtCEmRPDCwQIEvTm-qE0drQk1Tsb8KugDgkaW2jdPa5J8P5wKJ9D-7QHuEjT3WUG1YvL7l1SVxoT4fZyR0UiqCEPeSlFXBQcjPAcSf9w0MV-hoYQcWIBwMpFLtfDKao" alt="img" width="550" />
 
 
 So we will use the **HTTP** library in order to request the weather for a particular city. While sending the **HTTP** request, we will provide the server with the name of the city, and then the server will fetch the weather of this city from the database; then it will return an HTTP response with a lot of information, but in our case, we will only need the temperature info.
@@ -22,14 +20,15 @@ So we will use the **HTTP** library in order to request the weather for a partic
 
 13. Click the **SIGN UP FREE** button, and sign up with a new account.
 
-    ![img](https://lh4.googleusercontent.com/rTk7GeybdAgBiHOSoglFz6oh7lRttyXhGAZ_8E10tdgx55z8tTaw63CD5QHqcmj2NJojECRwXHOPbqRNzWd1Fjx233zY3QoayKXehqFSEXwlxVUD3zeKSg9I11Wp9JGFOlXzrDZP)
+<img src="https://lh4.googleusercontent.com/rTk7GeybdAgBiHOSoglFz6oh7lRttyXhGAZ_8E10tdgx55z8tTaw63CD5QHqcmj2NJojECRwXHOPbqRNzWd1Fjx233zY3QoayKXehqFSEXwlxVUD3zeKSg9I11Wp9JGFOlXzrDZP" alt="img" width="550" />
+
 
 
 
 14. Choose the **free** plan.
 15. Click the **Documentation**.
 
-![img](https://lh5.googleusercontent.com/eQusJNh-urb_Ls2aT5cikyh9o9wyXY_YnroCKQv-LWRxAequ2RoNzW9XHWXWnV0IrCP_5_z6k8qjZKFDCM3J-mv8URrZkG4mknBlDBQXlzn7zGA2vAx7MlpTV4jXfiG0Ik6h2McY)
+<img src="https://lh5.googleusercontent.com/eQusJNh-urb_Ls2aT5cikyh9o9wyXY_YnroCKQv-LWRxAequ2RoNzW9XHWXWnV0IrCP_5_z6k8qjZKFDCM3J-mv8URrZkG4mknBlDBQXlzn7zGA2vAx7MlpTV4jXfiG0Ik6h2McY" alt="img" width="550" />
 
 
 
@@ -37,7 +36,7 @@ So we will use the **HTTP** library in order to request the weather for a partic
 
 16. Go down the Getting Started, then click the **Run API** **Request** button
 
-![img](https://lh5.googleusercontent.com/pmj9WPg6czG_jgTIzFeSNCUrEjhF6npyN9gO2b2Kbgdgkqtn-jCpUJqwUz5-DEaxgqZDk7DMqYv8z_tXQA-O9ftX20S-3BttyS36iRSWe3xvy0icN-ECeWLNowiYlN_XgPQjhmLN)
+<img src="https://lh5.googleusercontent.com/pmj9WPg6czG_jgTIzFeSNCUrEjhF6npyN9gO2b2Kbgdgkqtn-jCpUJqwUz5-DEaxgqZDk7DMqYv8z_tXQA-O9ftX20S-3BttyS36iRSWe3xvy0icN-ECeWLNowiYlN_XgPQjhmLN" alt="img" width="550" />
 
 
 
@@ -51,11 +50,11 @@ So we will use the **HTTP** library in order to request the weather for a partic
 
 18. Here you will find a lot of information about Kuwait City, including the **temperature**, which we will use in the application.
 
-![img](https://lh3.googleusercontent.com/y7mQi9NfDt2udkOYWs4UnFlb29GCEc3mVrRuQtJKdCC5nXLwOZojiX8CMR9WswOQnYVwTJf4k2hXJ7LNKFoH6GZkG4DGqhMkghVxQ02ewbMcQp4zu6sA_7tE9ryMNlDCK-SB-7SA)
+<img src="https://lh3.googleusercontent.com/y7mQi9NfDt2udkOYWs4UnFlb29GCEc3mVrRuQtJKdCC5nXLwOZojiX8CMR9WswOQnYVwTJf4k2hXJ7LNKFoH6GZkG4DGqhMkghVxQ02ewbMcQp4zu6sA_7tE9ryMNlDCK-SB-7SA" alt="img" width="550" />
 
 
+<img src="https://lh4.googleusercontent.com/o8XT0byGdMvKngC9CGPL0TEq3X6ZV3Bnvjp5FwqyvfKLIwiY2tr4kyUh9fDHLBgo0-31d6DnmePBh5_OrCfyxVfeYbWdJIeVIHcqHnE3MwI0qch2B7N2phAlzDdwXUw7zn2gHO2X" alt="img" width="550" />
 
-![img](https://lh4.googleusercontent.com/o8XT0byGdMvKngC9CGPL0TEq3X6ZV3Bnvjp5FwqyvfKLIwiY2tr4kyUh9fDHLBgo0-31d6DnmePBh5_OrCfyxVfeYbWdJIeVIHcqHnE3MwI0qch2B7N2phAlzDdwXUw7zn2gHO2X)
 
 > The format that the server will give it to us is called **JSON**. In this case, we will use the **jsonDecode** function to convert this format into a usable format.
 
