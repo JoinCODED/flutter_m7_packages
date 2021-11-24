@@ -1,4 +1,3 @@
-# Packages
 
 In some cases, while you are developing your application, you will find yourself that you will need to use some services such as Bluetooth, GPS, Camera, etc. Here we will use some packages that will help us use these services. Also, the beautiful thing about the packages is that sometimes we do not need to develop some tools from scratch because there is another developer who developed these tools and published them to the general developers.
 

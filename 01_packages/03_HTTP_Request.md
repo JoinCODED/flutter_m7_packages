@@ -1,4 +1,3 @@
-# HTTP Request
 
 In our application, we will need a server that will provide us with the temperature of the cities, and the server that we will use is the **weatherstack** website. This website will provide us with the temperature of each city. To communicate with this website, we will use the HTTP request.
 

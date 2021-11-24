@@ -1,4 +1,3 @@
-# Stack widget
 
 27. To show the **temperature**, we need to use the **Stack** widget which will help us to overlay several widgets in a simple way. We will use it to add the celsius sign above the temperature number. So replace the **body** named argument with
 

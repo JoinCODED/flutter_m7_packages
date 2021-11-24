@@ -1,4 +1,3 @@
-# Drawer widget
 
 29. Now, we will add a Drawer widget that helps us to navigate to another screen for example navigate to the About page that we have inside the pages folder.
 

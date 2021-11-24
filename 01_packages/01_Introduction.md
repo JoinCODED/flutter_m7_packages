@@ -1,4 +1,4 @@
-# Weather APP
+## Weather APP
 
 In this example, we will create a weather app, and we will learn how to use packages. Also, we will get familiar with the HTTP request.
 
